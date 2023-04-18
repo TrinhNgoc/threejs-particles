@@ -1,4 +1,7 @@
 # Three.js Journey
+Creating particles with Three.js
+
+[https://threejs-particles-1.vercel.app/](https://threejs-particles-1.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
